@@ -1,5 +1,5 @@
 # Game Showcase
-*  All important modules and scripts for the camera system, character controler and matchmaking system have been included.
+*  All important modules and scripts for the camera system, character controller and matchmaking system have been included.
 *  Modules and scripts for unrelated purposes have been excluded.
 
  <br />
@@ -14,7 +14,7 @@
      
 <br />
 
- *  **Character Controler:**
+ *  **Character Controller:**
      <br />
      
      <pre>Lobby_Server > ServerScriptService > CharacterControler</pre>
