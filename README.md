@@ -29,4 +29,4 @@
      > All modules inside this folder.
      <pre>Game_Server > ServerScriptService > TeleportReceiver</pre>
      > All modules inside this folder. <br />
-     > **Client input modules for matchmaking have been excluded due to dependancy on GUI elements.**
+     > **Client input modules for matchmaking have been excluded due to dependency on GUI elements.**
